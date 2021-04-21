@@ -1,0 +1,23 @@
+.first-rect{
+    background-color:#323444;
+    width:100vw;
+    height:580px;
+    max-width:100%;
+}
+
+.second-rect{
+    background-color:#242533;
+    width:100vw;
+    height:900px;
+    max-width:100%;
+}
+.div-name{
+    position: relative;
+    top: 200px;
+    left: 10vw;
+}
+.name{
+    font-family: bebas-neue;
+    color:#f7f5fA;
+    font-size:4em;
+}

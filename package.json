@@ -12,6 +12,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.1.0",
+    "@angular/cdk": "^11.2.10",
     "@angular/common": "~11.1.0",
     "@angular/compiler": "~11.1.0",
     "@angular/core": "~11.1.0",
@@ -20,6 +21,10 @@
     "@angular/platform-browser-dynamic": "~11.1.0",
     "@angular/router": "~11.1.0",
     "angular-cli-ghpages": "^1.0.0-rc.1",
+    "bootstrap": "^4.6.0",
+    "lottie-web": "^5.7.8",
+    "ngx-lottie": "^6.4.0",
+    "ngx-scrollbar": "^7.5.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"

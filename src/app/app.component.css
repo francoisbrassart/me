@@ -1,3 +1,11 @@
+.navbarContainer {
+    position:fixed;
+    width:100vw;
+    z-index:10;
+}
+.content {
+    height:100vh;
+}
 .first-rect{
     background-color:#323444;
     width:100vw;
@@ -15,8 +23,28 @@
     position: relative;
     top: 200px;
     left: 10vw;
+    display: inline-block;
 }
 .name{
+    font-family: bebas-neue;
+    color:#f7f5fA;
+    font-size:4em;
+}
+
+.div-introduction{
+    position: relative;
+    top: 200px;
+    left: 40vw;
+    display: inline-block;
+}
+
+.introduction-title{
+    font-family: bebas-neue;
+    color:#f7f5fA;
+    font-size:4em;
+}
+
+.introduction-body{
     font-family: bebas-neue;
     color:#f7f5fA;
     font-size:4em;

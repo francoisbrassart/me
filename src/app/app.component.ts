@@ -10,7 +10,7 @@ import { AnimationOptions } from 'ngx-lottie';
 export class AppComponent {
   title = 'me';
   options: AnimationOptions = {
-    path: 'assets/animations/under_construction.json',
+    path: '../assets/animations/under_construction.json',
   };
   animationCreated(animationItem: AnimationItem): void {
     console.log(animationItem);
